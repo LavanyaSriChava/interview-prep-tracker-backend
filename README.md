@@ -62,3 +62,12 @@ interview-prep-tracker-backend/
 
 
 
+📬 Contact
+Lavanya Sri Chava
+🔗 GitHub: LavanyaSriChava
+📫 Email: lavanya.chava728@gmail.com 
+
+⭐ Star This Project
+If you found this backend useful for your learning or portfolio, consider giving it a ⭐ on GitHub!
+
+
